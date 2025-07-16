@@ -13,5 +13,9 @@ Lightweight version of the well known 'neofetch' starring neco-arc, written in R
 -Add customizability  
 -Add update UI  
 -Change resolution to computer resolution rather than the terminal's resolution  
+
+## Credits
+-Kudos to volfegan for creating the neco-arc ASCII art  
+https://gist.github.com/volfegan/819399c186460e772ccd5a3de07e5046
   
 ![alt text](https://github.com/CtrlAltSam/NecoMind/blob/main/NecoMind.png)
