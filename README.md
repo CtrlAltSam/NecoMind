@@ -2,6 +2,8 @@
 Lightweight version of the well known 'neofetch' starring neco-arc, written in Rust!
 
 ## Running the program(Windows)
+-Run the executable in the root folder  
+-If you want to run from source follow instructions below:  
 -Install Rust  
 -Either manually install dependencies, use rust-analyzer in VSCode, or any IDE really  
 -Run with 'cargo run'  
